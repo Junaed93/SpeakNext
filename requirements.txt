@@ -1,0 +1,14 @@
+streamlit>=1.40
+torch
+transformers
+peft
+accelerate
+sentence-transformers
+datasets
+librosa
+soundfile
+scipy
+sentencepiece
+protobuf
+# English TTS only (optional). Also needs espeak-ng installed on your OS:
+coqui-tts
